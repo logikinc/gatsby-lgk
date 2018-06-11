@@ -8,4 +8,4 @@ gatsby new gatsby-kitchen-sink-site https://github.com/gatsbyjs/gatsby-starter-k
 
 ## Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-kitchen-sink)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-kitchen-sink) [![Greenkeeper badge](https://badges.greenkeeper.io/logikinc/gatsby-lgk.svg)](https://greenkeeper.io/)
